@@ -1,0 +1,18 @@
+<annotation>
+  <filename>IMG_1004.jpg</filename>
+  <size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>tree</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>5</ymin>
+      <xmax>511</xmax>
+      <ymax>264</ymax>
+    </bndbox>
+  </object>
+</annotation>
